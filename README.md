@@ -4,6 +4,11 @@ CURRENT RELEASE: 24Jan2022-1100
 
 Developed by K3CLR (Amateur Extra), for further information browse to https://www.k3clr.com
 
+WINDOWS VERSION ONLY REQUIREMENT:
+The path to the OnAirNetScraper.exe file must be specified in the users variables as show below!
+You MUST be within the C:\Users\[Your Home Directory]\OnAirNetScraper\ directory before running OnAirNetScraper
+Running the program from outside this directory will terminate the program with a file not found error!!!
+
 ALL NEW PYTHON BASED NET SCRAPER for DESKTOPS:
 
 For Fedora Linux desktop, MacOS desktop, RaspberryPi ARM64 and ARMv7l and Windows the files "OnAirNetScraperPython3Fedora35-{DATE}.tgz", "OnAirNetScraperPython3MacOS-{DATE}.tgz", "OnAirNetScraperPythonRaspberryPiArm64-{DATE}.tgz", "OnAirNetScraperPythonRaspberryPiArmv7l-{DATE}.tgz" and ""OnAirNetScraperPythonWindows10-{DATE}.tgz"" are the latest Python ports of "Net Scraper".  This version of Net Scraper has been written in Python version 3 and the PyQt5 framework for improved performance.  Additionally, the Python files have been converted to a single executable by PyInstaller.  IMPORTANT NOTE:  These executables WILL NOT operate on any smartphone or tablet device.  See the discussion below for smartphone and tablet executables.   
