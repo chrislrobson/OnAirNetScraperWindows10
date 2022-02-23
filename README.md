@@ -1,6 +1,6 @@
 # OnAirNetScraper
 
-CURRENT RELEASE: 24Jan2022-1100
+CURRENT RELEASE: 23Feb2022-0800
 
 Developed by K3CLR (Amateur Extra), for further information browse to https://www.k3clr.com
 
