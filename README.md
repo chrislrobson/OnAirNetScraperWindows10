@@ -1,7 +1,7 @@
 # OnAirNetScraper
 
 CURRENT RELEASE: 23Feb2022-0800
-PURGE DATE: 24Feb2022
+PURGE DATE: 24Feb2022 0559
 
 Developed by K3CLR (Amateur Extra), for further information browse to https://www.k3clr.com
 
